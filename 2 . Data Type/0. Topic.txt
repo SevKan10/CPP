@@ -1,0 +1,6 @@
+Bài 1: Tính tuổi
+Bài 2: Tính diện tích và chu vi hình tròn
+Bài 3: Hoán đổi 2 số nguyên
+Bài 4: Kiểm tra số chẵn lẻ
+Bài 5: Tổng các chữ số của một số nguyên dương
+Bài 6: Tính BMI
