@@ -1,0 +1,6 @@
+Bài 1: Nhập và in mảng
+Bài 2: Tính tổng mảng
+Bài 3: Tìm phần tử lớn nhất và nhỏ nhất
+Bài 4: Đếm số chẵn và số lẻ
+Bài 5: Đảo ngược mảng
+Bài 6: Sắp xếp mảng tăng dần
