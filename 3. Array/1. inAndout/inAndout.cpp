@@ -10,15 +10,10 @@ int main()
     cin >> time;
 
     // Nhập dãy số
-    for (i = 0; i < time; i++)
-    {
-        cout << "Enter your number: ";
-        cin >> a[i];
-    }
+    for (i = 0; i < time; i++) {cout << "Enter your number: "; cin >> a[i];}
 
     cout << "\nYour array: ";
-    // Xuất dãy số
-    for (i = 0; i < time; i++){cout << a[i] << " ";}
+    for (i = 0; i < time; i++) {cout << a[i] << " ";}
     cout << endl;
 
     system("pause");
